@@ -1,0 +1,15 @@
+Advanced SQL
+
+https://notepad.pw/myadvsql_2019
+
+Day 1
+- Group by
+- Join
+- Sub Query
+
+Day 2
+- Select Set
+- Modify Large Data
+- Schema Object
+
+https://livesql.oracle.com/
